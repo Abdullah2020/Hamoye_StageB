@@ -9,7 +9,7 @@ The house temperature and humidity conditions were monitored with a ZigBee wirel
 # Attribute Information:
 
 + Date, time year-month-day hour:minute:second
-+ Appliances, energy use in Wh
++ Appliances, energy use in Wh (Target)
 + lights, energy use of light fixtures in the house in Wh
 + T1, Temperature in kitchen area, in Celsius
 + RH_1, Humidity in kitchen area, in %
